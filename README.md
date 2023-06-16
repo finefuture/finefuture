@@ -15,5 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Tomlong's GitHub stats](https://github-readme-stats.vercel.app/api?username=finefuture&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finefuture&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 👷 I am the contributor of [Apache Dubbo](https://github.com/apache/dubbo), one of the best Java RPC frameworks.
+- ✍️ I am the contributor of [Alibaba Sentinel](https://github.com/alibaba/Sentinel), a powerful flow control component enabling reliability, resilience and monitoring for microservices.
+- 🤩 I am interesting about these things:
+  - Rpc
+  - Microservice
+  - Serverless
+  - Cloud Computing
+
+[![Tomlong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finefuture&theme=github_dark&hide=python)](https://github.com/anuraghazra/github-readme-stats)
+[![Tomlong's GitHub stats](https://github-readme-stats.vercel.app/api?username=finefuture&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
