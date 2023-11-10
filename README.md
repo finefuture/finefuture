@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👷 I am the contributor of [Apache Dubbo](https://github.com/apache/dubbo), one of the best Java RPC frameworks.
-- ✍️ I am the contributor of [Alibaba Sentinel](https://github.com/alibaba/Sentinel), a powerful flow control component enabling reliability, resilience and monitoring for microservices.
+- 👷 I am the contributor of [Apache Dubbo](https://github.com/apache/dubbo)
 - 🤩 I am interesting about these things:
   - Rpc
   - Microservice
