@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👷 I am a contributor of [Apache Dubbo](https://github.com/apache/dubbo)
+- 👷 I am a committer of [Apache Dubbo](https://github.com/apache/dubbo)
 - 🤩 I am interesting about these things:
   - Rpc
   - Microservice
