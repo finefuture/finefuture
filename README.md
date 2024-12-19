@@ -8,10 +8,12 @@ Welcome to my GitHub profile! I'm a passionate developer and an Apache Dubbo com
 - 💬 Ask me about anything related to Apache Dubbo, microservices, or software development in general. I'm always happy to help.
 - 📫 How to reach me: [longqiang@apache.org](mailto:longqiang@apache.org)
 
+<!--
 ## 🛠️ Technologies & Tools
 - **Programming Languages:** Java, Go
 - **Frameworks:** Apache Dubbo, Spring Boot, gRPC
 - **Tools:** Docker, Kubernetes, Jenkins, Git, Maven
+-->
 
 ## 📈 GitHub Stats
 ![finefuture's GitHub stats](https://github-readme-stats.vercel.app/api?username=finefuture&show_icons=true&theme=radical)
@@ -20,9 +22,11 @@ Welcome to my GitHub profile! I'm a passionate developer and an Apache Dubbo com
 Here are a few projects that I’ve worked on:
 - [**Apache Dubbo**](https://github.com/apache/dubbo): A high-performance, Java-based RPC framework. As a committer, I’ve contributed to improving its scalability and reliability.
 
+<!--
 ## 🏆 Achievements
 - **Apache Dubbo Committer:** Contributed to the development and improvement of the Apache Dubbo framework.
 - **Open Source Contributions:** Actively contributed to various open-source projects, enhancing their functionality and performance.
+-->
 
 <!--
 ## 📚 Publications & Talks
